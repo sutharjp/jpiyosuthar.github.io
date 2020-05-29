@@ -1,3 +1,3 @@
 function helo() {
-    alert("nice");
+    alert("nice to meet you");
 }
